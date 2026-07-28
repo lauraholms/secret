@@ -1,0 +1,6 @@
+{
+  "auto_backup": true,
+  "backup_count": 5,
+  "export_directory": "data/export",
+  "theme": "default"
+}
